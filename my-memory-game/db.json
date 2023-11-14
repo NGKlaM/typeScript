@@ -1,0 +1,9 @@
+{
+    "photos": [
+      { "id": 1, "image": "src/image/download (1).png" },
+      { "id": 2, "image": "src/image/download.jpg" },
+      {"id":3, "image":"src/image/download.png"},
+      {"id":4, "image":"src/image/images (1).jpg"},
+      {"id": 5,"image": "src/image/images.jpg"}
+    ]
+}
